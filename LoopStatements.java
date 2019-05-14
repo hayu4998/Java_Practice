@@ -32,8 +32,5 @@ public class LoopStatements{
 				System.out.println("Error!");
 			}
 		}
-
-
-
 	}
 }
